@@ -1,0 +1,5 @@
+Model,CV RMSE
+Random Forest (tuned),9379.834156316045
+KNN Regressor (tuned),10736.58337034659
+Decision Tree (tuned),11163.204947303173
+Linear Regression,16831.78532905507
