@@ -1,5 +1,6 @@
 # Auto Evaluate – Used Car Price Prediction
 
+## Deployment Link: https://autoevaluate-9wsj2gndsri6tm2azstc9e.streamlit.app/
 ## Overview
 
 **Auto Evaluate** is a machine learning project that predicts used-car prices using four regression models: **Linear Regression, Decision Tree Regressor, Random Forest Regressor, and K-Nearest Neighbours (KNN) Regressor**. It uses `Car_Raw_Data.csv` and includes data cleaning, exploratory data analysis (EDA), model comparison, basic hyperparameter tuning, evaluation, and a Streamlit frontend that uses a saved model pipeline to estimate a car's price.
